@@ -1,8 +1,8 @@
 Life is a piece of shit.
 ======
-
 CVPR2018 Action
-______
+---
+
 
 Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition
 
